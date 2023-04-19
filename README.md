@@ -6,9 +6,6 @@ Memeify is a web application that allows users to create and customize memes usi
 
 - Users can select an image from their local file system or from the web to create a meme.
 - Users can add captions or text to the selected image.
-- Various font styles, sizes, and colors are available to customize the text.
-- Created memes can be saved to the local file system or shared on social media platforms like Twitter, Facebook, or Instagram.
-- Integrated with GitHub, allowing users to easily store and share their memes with others.
 
 ## Technologies Used
 
@@ -39,7 +36,3 @@ Contributions are welcome! To contribute, follow these steps:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or feedback, please feel free to contact us at [email@example.com](mailto:email@example.com).
